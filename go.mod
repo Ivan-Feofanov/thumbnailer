@@ -1,4 +1,4 @@
-module gitlab.com/petshelter/thumbnailer
+module github.com/Ivan-Feofanov/thumbnailer
 
 go 1.21
 
